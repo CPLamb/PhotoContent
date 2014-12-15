@@ -1,0 +1,2378 @@
+TDesktopDefault
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC11C42000000000020BF30
+t1287724098
+s2146096
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC11C240000000000000733
+t1287724068
+s1843
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC10EF400000000003B8CB0
+t1287720692
+s3902640
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC10EB60000000000000A23
+t1287720630
+s2595
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC11B5300000000000D96F0
+t1287723859
+s890608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC11B4300000000000001D0
+t1287723843
+s464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC11D4800000000000002FE
+t1287724360
+s766
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC11D62000000000029CFA0
+t1287724386
+s2740128
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004CC247E70000000000000294
+t1287800807
+s660
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004CC2483E000000000038CF50
+t1287800894
+s3723088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2/libxml/parser.h
+c000000004CC10E3400000000000098A9
+t1287720500
+s39081
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2/libxml/tree.h
+c000000004CC10E340000000000008F14
+t1287720500
+s36628
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2/libxml/xmlIO.h
+c000000004CC10E3400000000000028D0
+t1287720500
+s10448
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2/libxml/xpath.h
+c000000004CC10E340000000000003F47
+t1287720500
+s16199
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2/libxml/xpathInternals.h
+c000000004CC10E340000000000004BF8
+t1287720500
+s19448
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/../SetupViewController.h
+c000000004D6180970000000000000608
+t1298235543
+s1544
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"WebViewController.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/../SetupViewController.m
+c000000004D6180970000000000000750
+t1298235543
+s1872
+i"SetupViewController.h"
+i"WebViewController.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLDocument.h
+c000000004CA3D0E40000000000000AAD
+t1285804260
+s2733
+i"CXMLNode.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLDocument.m
+c000000004CA3D0E40000000000001C42
+t1285804260
+s7234
+i"CXMLDocument.h"
+i<libxml/parser.h>
+i"CXMLNode_PrivateExtensions.h"
+i"CXMLElement.h"
+i"CTidy.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLDocument_PrivateExtensions.h
+c000000004CA3D0E400000000000005FE
+t1285804260
+s1534
+i"CXMLDocument.h"
+i<libxml/parser.h>
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLDocument_PrivateExtensions.m
+c000000004CA3D0E4000000000000067A
+t1285804260
+s1658
+i"CXMLDocument_PrivateExtensions.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLElement.h
+c000000004CA3D0E40000000000000775
+t1285804260
+s1909
+i"CXMLNode.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLElement.m
+c000000004CA3D0E400000000000022FB
+t1285804260
+s8955
+i"CXMLElement.h"
+i"CXMLNode_PrivateExtensions.h"
+i"CXMLNode_CreationExtensions.h"
+i"CXMLNamespaceNode.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLElement_CreationExtensions.h
+c000000004CA3D0E4000000000000059D
+t1285804260
+s1437
+i"CXMLElement.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLElement_CreationExtensions.m
+c000000004CA3D0E40000000000000850
+t1285804260
+s2128
+i"CXMLElement_CreationExtensions.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLElement_ElementTreeExtensions.h
+c000000004CA3D0E40000000000000580
+t1285804260
+s1408
+i"CXMLElement.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLElement_ElementTreeExtensions.m
+c000000004CA3D0E40000000000000668
+t1285804260
+s1640
+i"CXMLElement_ElementTreeExtensions.h"
+i"CXMLElement_CreationExtensions.h"
+i"CXMLNode_CreationExtensions.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLNamespaceNode.h
+c000000004CA3D0E4000000000000014E
+t1285804260
+s334
+i<Foundation/Foundation.h>
+i"CXMLNode.h"
+i"CXMLElement.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLNamespaceNode.m
+c000000004CA3D0E40000000000000906
+t1285804260
+s2310
+i"CXMLNamespaceNode.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLNode.h
+c000000004CA3D0E40000000000000B01
+t1285804260
+s2817
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLNode.m
+c000000004CA3D0E40000000000002778
+t1285804260
+s10104
+i"CXMLNode.h"
+i"CXMLNode_PrivateExtensions.h"
+i"CXMLDocument.h"
+i"CXMLElement.h"
+i"CXMLNode_CreationExtensions.h"
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+i<libxml/xmlIO.h>
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLNode_PrivateExtensions.h
+c000000004CA3D0E40000000000000624
+t1285804260
+s1572
+i"CXMLNode.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLNode_PrivateExtensions.m
+c000000004CA3D0E40000000000000A8D
+t1285804260
+s2701
+i"CXMLNode_PrivateExtensions.h"
+i"CXMLElement.h"
+i"CXMLDocument_PrivateExtensions.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLNode_XPathExtensions.h
+c000000004CA3D0E400000000000005FC
+t1285804260
+s1532
+i"CXMLNode.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLNode_XPathExtensions.m
+c000000004CA3D0E40000000000000B1C
+t1285804260
+s2844
+i"CXMLNode_XPathExtensions.h"
+i"CXMLDocument.h"
+i"CXMLNode_PrivateExtensions.h"
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/Creation/CXMLDocument_CreationExtensions.h
+c000000004CA3D0E40000000000000814
+t1285804260
+s2068
+i"CXMLDocument.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/Creation/CXMLDocument_CreationExtensions.m
+c000000004CA3D0E40000000000000720
+t1285804260
+s1824
+i"CXMLDocument_CreationExtensions.h"
+i"CXMLElement.h"
+i"CXMLNode_PrivateExtensions.h"
+i"CXMLDocument_PrivateExtensions.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/Creation/CXMLNode_CreationExtensions.h
+c000000004CA3D0E40000000000000954
+t1285804260
+s2388
+i"CXMLNode.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/Creation/CXMLNode_CreationExtensions.m
+c000000004CA3D0E40000000000000FD7
+t1285804260
+s4055
+i"CXMLNode_CreationExtensions.h"
+i"CXMLDocument.h"
+i"CXMLElement.h"
+i"CXMLNode_PrivateExtensions.h"
+i"CXMLDocument_PrivateExtensions.h"
+i"CXMLNamespaceNode.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/ICB_WeatherConditions.h
+c000000004D34ACBC000000000000027B
+t1295297724
+s635
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/ICB_WeatherConditions.m
+c000000004D45C8BB00000000000009D5
+t1296419003
+s2517
+i"ICB_WeatherConditions.h"
+i"TouchXML.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/LocalWeatherViewController.h
+c000000004D52C78F0000000000000556
+t1297270671
+s1366
+i<UIKit/UIKit.h>
+i"MapKit/MapKit.h"
+i"ICB_WeatherConditions.h"
+i<CoreLocation/CoreLocation.h>
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/LocalWeatherViewController.m
+c000000004D759A160000000000003A74
+t1299552790
+s14964
+i"LocalWeatherViewController.h"
+i"ICB_WeatherConditions.h"
+i"MapKit/MapKit.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/MainViewController.h
+c000000004D6302740000000000000A01
+t1298334324
+s2561
+i<UIKit/UIKit.h>
+i<MediaPlayer/MediaPlayer.h>
+i<AVFoundation/AVFoundation.h>
+i<AudioToolbox/AudioToolbox.h>
+i"MusicTableViewController.h"
+i"SlideShowAppDelegate.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/MainViewController.m
+c000000004D76D3FF0000000000006831
+t1299633151
+s26673
+i"MainViewController.h"
+i<Foundation/Foundation.h>
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/MusicTableViewController.h
+c000000004D6C2AC500000000000004EC
+t1298934469
+s1260
+i<MediaPlayer/MediaPlayer.h>
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/MusicTableViewController.m
+c000000004D76D4470000000000001945
+t1299633223
+s6469
+i"MusicTableViewController.h"
+i"MainViewController.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/SlideShowAppDelegate.h
+c000000004D571B4F000000000000020A
+t1297554255
+s522
+i<UIKit/UIKit.h>
+i"SlideShowViewController.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/SlideShowAppDelegate.m
+c000000004D73E8500000000000000815
+t1299441744
+s2069
+i"SlideShowAppDelegate.h"
+i"SlideShowViewController.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/SlideShowViewController.h
+c000000004D742CDD00000000000005B4
+t1299459293
+s1460
+i<UIKit/UIKit.h>
+i"SetupViewController.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/SlideShowViewController.m
+c000000004D75A06C000000000000212D
+t1299554412
+s8493
+i"SlideShowViewController.h"
+i"LocalWeatherViewController.h"
+i"MainViewController.h"
+i"SetupViewController.h"
+i"WebViewController.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/Tidy/CTidy.h
+c000000004CA3D0E40000000000000762
+t1285804260
+s1890
+i<Foundation/Foundation.h>
+i"tidy.h"
+i"buffio.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/Tidy/CTidy.m
+c000000004CA3D0E40000000000001D6D
+t1285804260
+s7533
+i"CTidy.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/TouchXML.h
+c000000004CA3D0E400000000000005F3
+t1285804260
+s1523
+i"CXMLDocument.h"
+i"CXMLDocument_CreationExtensions.h"
+i"CXMLElement.h"
+i"CXMLElement_CreationExtensions.h"
+i"CXMLElement_ElementTreeExtensions.h"
+i"CXMLNode.h"
+i"CXMLNode_CreationExtensions.h"
+i"CXMLNode_XPathExtensions.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/WebViewController.h
+c000000004D617EC4000000000000011B
+t1298235076
+s283
+i<UIKit/UIKit.h>
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/WebViewController.m
+c000000004D7597B80000000000000389
+t1299552184
+s905
+i"WebViewController.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/WebViewController.xib
+c000000004D759C190000000000005C20
+t1299553305
+s23584
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/DesktopDefault_Prefix.pch
+c000000004D3DF6E000000000000000BB
+t1295906528
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Entitlements.plist
+c000000004D75BA330000000000000221
+t1299561011
+s545
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/LocalWeatherViewController.xib
+c000000004D72EF880000000000009FE3
+t1299378056
+s40931
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/MainView.xib
+c000000004D780EEF000000000000774E
+t1299713775
+s30542
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/MainWindow.xib
+c000000004D3DF6E00000000000004D1D
+t1295906528
+s19741
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/MusicTableView.xib
+c000000004D76CE240000000000006B25
+t1299631652
+s27429
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/OptimaLTStd.otf
+c000000003EC01DB20000000000008428
+t1052777906
+s33832
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Settings.bundle
+c000000004D7477FB0000000000000088
+t1299478523
+s136
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/SetupViewController.h
+c000000004D6180970000000000000608
+t1298235543
+s1544
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"WebViewController.h"
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/SetupViewController.xib
+c000000004D76F250000000000000A6E8
+t1299640912
+s42728
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/SlideShowViewController.xib
+c000000004D75A13F000000000000752A
+t1299554623
+s29994
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/appStoreBadge.png
+c000000004D5C7B610000000000004532
+t1297906529
+s17714
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CTidy.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLDocument.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLDocument_CreationExtensions.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLDocument_PrivateExtensions.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLElement.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLElement_CreationExtensions.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLElement_ElementTreeExtensions.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLNamespaceNode.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLNode.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLNode_CreationExtensions.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLNode_PrivateExtensions.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLNode_XPathExtensions.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/DesktopDefault.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/ICB_WeatherConditions.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/LocalWeatherViewController.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/MainViewController.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/MusicTableViewController.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/SetupViewController.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/SlideShowAppDelegate.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/SlideShowViewController.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/WebViewController.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app.dSYM
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/DesktopDefault
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/Entitlements.plist
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/Info.plist
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/LocalWeatherViewController.nib
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/MainView.nib
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/MainWindow.nib
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/MusicTableView.nib
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/OptimaLTStd.otf
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/PkgInfo
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/ResourceRules.plist
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/Settings.bundle
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/SetupViewController.nib
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/SlideShowViewController.nib
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/WebViewController.nib
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/appStoreBadge.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/clock_bg_550x200.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/icon.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image1.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image10.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image100.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image11.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image12.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image13.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image14.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image15.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image16.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image17.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image18.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image19.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image2.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image20.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image21.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image22.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image23.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image24.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image25.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image26.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image27.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image28.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image29.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image3.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image30.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image31.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image32.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image33.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image34.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image35.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image36.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image37.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image38.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image39.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image4.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image40.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image41.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image42.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image43.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image44.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image45.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image46.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image47.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image48.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image49.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image5.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image50.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image51.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image52.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image53.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image54.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image55.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image56.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image57.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image58.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image59.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image6.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image60.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image61.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image62.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image63.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image64.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image65.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image66.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image67.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image68.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image69.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image7.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image70.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image71.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image72.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image73.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image74.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image75.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image76.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image77.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image78.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image79.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image8.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image80.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image81.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image82.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image83.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image84.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image85.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image86.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image87.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image88.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image89.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image9.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image90.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image91.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image92.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image93.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image94.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image95.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image96.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image97.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image98.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/image99.jpg
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/infoScreenBg.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/info_buttonON_90x90.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/info_button_90x90.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/no_artwork.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/radio_bg_300x360.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/radio_playOff_180x40.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/radio_playOn_180x40.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/radio_playlistOff_180x40.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/sound.caf
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/speed_faster.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/speed_slower.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_amChanceOfRain.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_amClear.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_amCloudy.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_amPartlyCloudy.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_bg_300x390.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_default.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_dust.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_fog.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_ice.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_pmChanceOfRain.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_pmClear.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_pmCloudy.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_pmPartlyCloudy.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_rain.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_sleet.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_smoke.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_snow.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_thunderstorms.png
+t2
+s0
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/clock_bg_550x200.png
+c000000004D72BD7900000000000034C6
+t1299365241
+s13510
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/icon.png
+c000000004D76B6A80000000000002783
+t1299625640
+s10115
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image1.jpg
+c000000004CF0767F000000000001F9D0
+t1290827391
+s129488
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image10.jpg
+c000000004CF5F0720000000000019467
+t1291186290
+s103527
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image100.jpg
+c000000004CECB28B0000000000015331
+t1290580619
+s86833
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image11.jpg
+c000000004CECB10F0000000000017CE9
+t1290580239
+s97513
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image12.jpg
+c000000004CF5F1D7000000000001FFA0
+t1291186647
+s130976
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image13.jpg
+c000000004CF5F0F40000000000010C2A
+t1291186420
+s68650
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image14.jpg
+c000000004CECB1C80000000000021EB8
+t1290580424
+s138936
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image15.jpg
+c000000004CF584D70000000000030C93
+t1291158743
+s199827
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image16.jpg
+c000000004CECB231000000000001D949
+t1290580529
+s121161
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image17.jpg
+c000000004CECB28E0000000000023895
+t1290580622
+s145557
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image18.jpg
+c000000004CF5E3BB000000000002E5CB
+t1291183035
+s189899
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image19.jpg
+c000000004CF07621000000000001BE88
+t1290827297
+s114312
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image2.jpg
+c000000004CF07605000000000001A3BC
+t1290827269
+s107452
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image20.jpg
+c000000004CECB1EA000000000001427F
+t1290580458
+s82559
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image21.jpg
+c000000004CECB1360000000000062B95
+t1290580278
+s404373
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image22.jpg
+c000000004CECB1640000000000014ED0
+t1290580324
+s85712
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image23.jpg
+c000000004CF6B7CD000000000002A8E5
+t1291237325
+s174309
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image24.jpg
+c000000004CECB188000000000001B02E
+t1290580360
+s110638
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image25.jpg
+c000000004CECB15F0000000000023903
+t1290580319
+s145667
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image26.jpg
+c000000004CF6BC5A0000000000021D03
+t1291238490
+s138499
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image27.jpg
+c000000004CECB1D50000000000016AD5
+t1290580437
+s92885
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image28.jpg
+c000000004CECB210000000000001E3DE
+t1290580496
+s123870
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image29.jpg
+c000000004CECB1C4000000000001DDCB
+t1290580420
+s122315
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image3.jpg
+c000000004CF5F0DD000000000001D2C4
+t1291186397
+s119492
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image30.jpg
+c000000004CECB223000000000002851A
+t1290580515
+s165146
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image31.jpg
+c000000004CECB0F90000000000019924
+t1290580217
+s104740
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image32.jpg
+c000000004CECB272000000000001F667
+t1290580594
+s128615
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image33.jpg
+c000000004CECB2670000000000015EE5
+t1290580583
+s89829
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image34.jpg
+c000000004CF5E55D00000000000100D2
+t1291183453
+s65746
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image35.jpg
+c000000004CF5F11D000000000002D7FB
+t1291186461
+s186363
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image36.jpg
+c000000004CF075F50000000000026DDC
+t1290827253
+s159196
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image37.jpg
+c000000004CF0760C0000000000024D98
+t1290827276
+s150936
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image38.jpg
+c000000004CECB21B0000000000014DCB
+t1290580507
+s85451
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image39.jpg
+c000000004CF5E3B10000000000014885
+t1291183025
+s84101
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image4.jpg
+c000000004CECB2470000000000032854
+t1290580551
+s206932
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image40.jpg
+c000000004CECB16E0000000000022CF7
+t1290580334
+s142583
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image41.jpg
+c000000004CECB235000000000001B880
+t1290580533
+s112768
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image42.jpg
+c000000004CF0761D0000000000020E48
+t1290827293
+s134728
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image43.jpg
+c000000004CECB2270000000000028FAD
+t1290580519
+s167853
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image44.jpg
+c000000004CF6B7B1000000000001AF41
+t1291237297
+s110401
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image45.jpg
+c000000004CECB1F1000000000001F302
+t1290580465
+s127746
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image46.jpg
+c000000004CECB26C000000000001D912
+t1290580588
+s121106
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image47.jpg
+c000000004CECB2580000000000019E79
+t1290580568
+s106105
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image48.jpg
+c000000004CF5F1BF0000000000014A59
+t1291186623
+s84569
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image49.jpg
+c000000004CECB2790000000000023010
+t1290580601
+s143376
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image5.jpg
+c000000004CECB27D0000000000026540
+t1290580605
+s156992
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image50.jpg
+c000000004CF076790000000000025CC1
+t1290827385
+s154817
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image51.jpg
+c000000004CF6B7C0000000000002762F
+t1291237312
+s161327
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image52.jpg
+c000000004CF0766F000000000002C652
+t1290827375
+s181842
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image53.jpg
+c000000004CECB1BA0000000000033AB5
+t1290580410
+s211637
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image54.jpg
+c000000004CF5EFF8000000000002B0D2
+t1291186168
+s176338
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image55.jpg
+c000000004CF0762E0000000000010DE5
+t1290827310
+s69093
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image56.jpg
+c000000004CF076370000000000017873
+t1290827319
+s96371
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image57.jpg
+c000000004CECB2880000000000026CC3
+t1290580616
+s158915
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image58.jpg
+c000000004CF6BAD500000000000373A9
+t1291238101
+s226217
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image59.jpg
+c000000004CF075FC0000000000011614
+t1290827260
+s71188
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image6.jpg
+c000000004CECB154000000000002B004
+t1290580308
+s176132
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image60.jpg
+c000000004CECB22B0000000000012E00
+t1290580523
+s77312
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image61.jpg
+c000000004CF075F80000000000010CAF
+t1290827256
+s68783
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image62.jpg
+c000000004CF6BB70000000000002C85D
+t1291238256
+s182365
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image63.jpg
+c000000004CECB203000000000003363A
+t1290580483
+s210490
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image64.jpg
+c000000004CECB284000000000001DE6E
+t1290580612
+s122478
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image65.jpg
+c000000004CECB18E0000000000040276
+t1290580366
+s262774
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image66.jpg
+c000000004CECB1EE00000000000208CF
+t1290580462
+s133327
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image67.jpg
+c000000004CF587980000000000023F48
+t1291159448
+s147272
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image68.jpg
+c000000004CECB207000000000002B841
+t1290580487
+s178241
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image69.jpg
+c000000004CF5E5A90000000000027750
+t1291183529
+s161616
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image7.jpg
+c000000004CECB20C0000000000029959
+t1290580492
+s170329
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image70.jpg
+c000000004CF076100000000000019606
+t1290827280
+s103942
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image71.jpg
+c000000004CF07647000000000003C2AC
+t1290827335
+s246444
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image72.jpg
+c000000004CECB251000000000001EDBD
+t1290580561
+s126397
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image73.jpg
+c000000004CECB2800000000000015783
+t1290580608
+s87939
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image74.jpg
+c000000004CF076830000000000017B4A
+t1290827395
+s97098
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image75.jpg
+c000000004CECB173000000000001F3E2
+t1290580339
+s127970
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image76.jpg
+c000000004CF5E3B6000000000001BF84
+t1291183030
+s114564
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image77.jpg
+c000000004CF5E68D000000000001FFF1
+t1291183757
+s131057
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image78.jpg
+c000000004CF076330000000000025793
+t1290827315
+s153491
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image79.jpg
+c000000004CECB0F5000000000001585E
+t1290580213
+s88158
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image8.jpg
+c000000004CECB1050000000000022325
+t1290580229
+s140069
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image80.jpg
+c000000004CECB26E00000000000115C6
+t1290580590
+s71110
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image81.jpg
+c000000004CECB15B0000000000025A35
+t1290580315
+s154165
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image82.jpg
+c000000004CECB2180000000000024DD2
+t1290580504
+s150994
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image83.jpg
+c000000004CECB1F70000000000033D99
+t1290580471
+s212377
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image84.jpg
+c000000004CECB1A40000000000033ED8
+t1290580388
+s212696
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image85.jpg
+c000000004CF5E5630000000000010708
+t1291183459
+s67336
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image86.jpg
+c000000004CF0764D000000000002751E
+t1290827341
+s161054
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image87.jpg
+c000000004CF07626000000000001B4D9
+t1290827302
+s111833
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image88.jpg
+c000000004CF5F060000000000001741B
+t1291186272
+s95259
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image89.jpg
+c000000004CF5F01800000000000103EF
+t1291186200
+s66543
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image9.jpg
+c000000004CECB1570000000000019990
+t1290580311
+s104848
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image90.jpg
+c000000004CECB1010000000000018929
+t1290580225
+s100649
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image91.jpg
+c000000004CF5E5AF000000000001DDB7
+t1291183535
+s122295
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image92.jpg
+c000000004CF0763B000000000001BC35
+t1290827323
+s113717
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image93.jpg
+c000000004CF5EFBB000000000002C9CA
+t1291186107
+s182730
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image94.jpg
+c000000004CF0762B00000000000238ED
+t1290827307
+s145645
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image95.jpg
+c000000004CF5F2F50000000000018288
+t1291186933
+s98952
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image96.jpg
+c000000004CECB2420000000000029069
+t1290580546
+s168041
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image97.jpg
+c000000004CECB10C0000000000019CD9
+t1290580236
+s105689
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image98.jpg
+c000000004CF6BB8B00000000000178B8
+t1291238283
+s96440
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/image99.jpg
+c000000004CF5E69E000000000000DF3C
+t1291183774
+s57148
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/infoScreenBg.png
+c000000004D75A6910000000000010E8F
+t1299555985
+s69263
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/info_buttonON_90x90.png
+c000000004D72BE6800000000000017CD
+t1299365480
+s6093
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/info_button_90x90.png
+c000000004D72BD760000000000001213
+t1299365238
+s4627
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/main.m
+c000000004D3DF6E00000000000000166
+t1295906528
+s358
+i<UIKit/UIKit.h>
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/no_artwork.png
+c000000004AB7CA1B0000000000001358
+t1253558811
+s4952
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/radio_bg_300x360.png
+c000000004D7808AE0000000000004DF1
+t1299712174
+s19953
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/radio_playOff_180x40.png
+c000000004D780DE60000000000001178
+t1299713510
+s4472
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/radio_playOn_180x40.png
+c000000004D780E3D0000000000001266
+t1299713597
+s4710
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/radio_playlistOff_180x40.png
+c000000004D780DE50000000000000FC6
+t1299713509
+s4038
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/sound.caf
+c000000004AB7CA1B000000000001269C
+t1253558811
+s75420
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/speed_faster.png
+c000000004D76EF840000000000000BC2
+t1299640196
+s3010
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/speed_slower.png
+c000000004D76EF840000000000000D47
+t1299640196
+s3399
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/weather_amChanceOfRain.png
+c000000004D73ED400000000000018AED
+t1299443008
+s101101
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/weather_amClear.png
+c000000004D72BF99000000000000769E
+t1299365785
+s30366
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/weather_amCloudy.png
+c000000004D72BFE3000000000000B055
+t1299365859
+s45141
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/weather_amPartlyCloudy.png
+c000000004D72BFAE000000000000DABF
+t1299365806
+s55999
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/weather_bg_300x390.png
+c000000004D72BD740000000000003279
+t1299365236
+s12921
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/weather_default.png
+c000000004D72CA330000000000013A5F
+t1299368499
+s80479
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/weather_dust.png
+c000000004D72BF00000000000000C01C
+t1299365632
+s49180
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/weather_fog.png
+c000000004D72BE6600000000000081EF
+t1299365478
+s33263
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/weather_ice.png
+c000000004D72BF31000000000001580C
+t1299365681
+s88076
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/weather_pmChanceOfRain.png
+c000000004D73ED66000000000001A902
+t1299443046
+s108802
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/weather_pmClear.png
+c000000004D72BF440000000000010494
+t1299365700
+s66708
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/weather_pmCloudy.png
+c000000004D72BF840000000000015138
+t1299365764
+s86328
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/weather_pmPartlyCloudy.png
+c000000004D72BF700000000000011D51
+t1299365744
+s73041
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/weather_rain.png
+c000000004D72BFC20000000000014102
+t1299365826
+s82178
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/weather_sleet.png
+c000000004D72CC3C000000000001097B
+t1299369020
+s67963
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/weather_smoke.png
+c000000004D72BED9000000000000DBEC
+t1299365593
+s56300
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/weather_snow.png
+c000000004D72BF180000000000007AA2
+t1299365656
+s31394
+
+N/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/weather_thunderstorms.png
+c000000004D72BF5D000000000001A31A
+t1299365725
+s107290
+
+N/Users/ben/Library/MobileDevice/Provisioning Profiles/9030EBFD-E935-4777-9745-6597388AB1ED.mobileprovision
+c000000004D6587B70000000000002F58
+t1298499511
+s12120
+
+N/var/folders/Hn/HnkSL18jEWWahVbN+EpmxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DesktopDefault_Prefix-fcathfxskddlqvapqvytuwejkqky/DesktopDefault_Prefix.pch.gch
+t2
+s0
+
+NSlideShow-Info.plist
+c000000004D7814240000000000000520
+t1299715108
+s1312
+
+CCodeSign "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app"
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CTidy.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/Tidy/CTidy.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLDocument.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLDocument.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLDocument_CreationExtensions.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/Creation/CXMLDocument_CreationExtensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLDocument_PrivateExtensions.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLDocument_PrivateExtensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLElement.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLElement.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLElement_CreationExtensions.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLElement_CreationExtensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLElement_ElementTreeExtensions.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLElement_ElementTreeExtensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLNamespaceNode.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLNamespaceNode.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLNode.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLNode.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLNode_CreationExtensions.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/Creation/CXMLNode_CreationExtensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLNode_PrivateExtensions.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLNode_PrivateExtensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/CXMLNode_XPathExtensions.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/CXMLNode_XPathExtensions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/ICB_WeatherConditions.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/ICB_WeatherConditions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/LocalWeatherViewController.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/LocalWeatherViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/MainViewController.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/MainViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/MusicTableViewController.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/MusicTableViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/SetupViewController.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/../SetupViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/SlideShowAppDelegate.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/SlideShowAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/SlideShowViewController.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/SlideShowViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/WebViewController.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/WebViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/Objects-normal/armv7/main.o "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/Classes/WebViewController.xib"
+r0
+
+CCompileXIB "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/LocalWeatherViewController.xib"
+r0
+
+CCompileXIB "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/MainView.xib"
+r0
+
+CCompileXIB "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/MusicTableView.xib"
+r0
+
+CCompileXIB "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/SetupViewController.xib"
+r0
+
+CCompileXIB "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/SlideShowViewController.xib"
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/appStoreBadge.png" appStoreBadge.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/clock_bg_550x200.png" clock_bg_550x200.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/icon.png" icon.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/infoScreenBg.png" infoScreenBg.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/info_buttonON_90x90.png" info_buttonON_90x90.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/info_button_90x90.png" info_button_90x90.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/no_artwork.png" no_artwork.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/radio_bg_300x360.png" radio_bg_300x360.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/radio_playOff_180x40.png" radio_playOff_180x40.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/radio_playOn_180x40.png" radio_playOn_180x40.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/radio_playlistOff_180x40.png" radio_playlistOff_180x40.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/speed_faster.png" speed_faster.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/speed_slower.png" speed_slower.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_amChanceOfRain.png" weather_amChanceOfRain.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_amClear.png" weather_amClear.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_amCloudy.png" weather_amCloudy.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_amPartlyCloudy.png" weather_amPartlyCloudy.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_bg_300x390.png" weather_bg_300x390.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_default.png" weather_default.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_dust.png" weather_dust.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_fog.png" weather_fog.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_ice.png" weather_ice.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_pmChanceOfRain.png" weather_pmChanceOfRain.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_pmClear.png" weather_pmClear.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_pmCloudy.png" weather_pmCloudy.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_pmPartlyCloudy.png" weather_pmPartlyCloudy.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_rain.png" weather_rain.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_sleet.png" weather_sleet.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_smoke.png" weather_smoke.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_snow.png" weather_snow.png
+r0
+
+CCopyPNGFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/weather_thunderstorms.png" weather_thunderstorms.png
+r0
+
+CCopyPlistFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/Entitlements.plist" Entitlements.plist
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/OptimaLTStd.otf OptimaLTStd.otf
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/Settings.bundle Settings.bundle
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image1.jpg image1.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image10.jpg image10.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image100.jpg image100.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image11.jpg image11.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image12.jpg image12.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image13.jpg image13.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image14.jpg image14.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image15.jpg image15.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image16.jpg image16.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image17.jpg image17.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image18.jpg image18.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image19.jpg image19.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image2.jpg image2.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image20.jpg image20.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image21.jpg image21.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image22.jpg image22.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image23.jpg image23.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image24.jpg image24.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image25.jpg image25.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image26.jpg image26.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image27.jpg image27.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image28.jpg image28.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image29.jpg image29.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image3.jpg image3.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image30.jpg image30.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image31.jpg image31.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image32.jpg image32.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image33.jpg image33.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image34.jpg image34.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image35.jpg image35.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image36.jpg image36.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image37.jpg image37.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image38.jpg image38.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image39.jpg image39.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image4.jpg image4.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image40.jpg image40.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image41.jpg image41.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image42.jpg image42.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image43.jpg image43.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image44.jpg image44.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image45.jpg image45.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image46.jpg image46.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image47.jpg image47.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image48.jpg image48.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image49.jpg image49.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image5.jpg image5.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image50.jpg image50.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image51.jpg image51.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image52.jpg image52.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image53.jpg image53.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image54.jpg image54.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image55.jpg image55.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image56.jpg image56.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image57.jpg image57.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image58.jpg image58.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image59.jpg image59.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image6.jpg image6.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image60.jpg image60.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image61.jpg image61.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image62.jpg image62.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image63.jpg image63.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image64.jpg image64.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image65.jpg image65.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image66.jpg image66.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image67.jpg image67.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image68.jpg image68.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image69.jpg image69.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image7.jpg image7.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image70.jpg image70.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image71.jpg image71.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image72.jpg image72.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image73.jpg image73.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image74.jpg image74.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image75.jpg image75.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image76.jpg image76.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image77.jpg image77.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image78.jpg image78.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image79.jpg image79.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image8.jpg image8.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image80.jpg image80.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image81.jpg image81.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image82.jpg image82.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image83.jpg image83.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image84.jpg image84.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image85.jpg image85.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image86.jpg image86.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image87.jpg image87.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image88.jpg image88.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image89.jpg image89.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image9.jpg image9.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image90.jpg image90.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image91.jpg image91.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image92.jpg image92.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image93.jpg image93.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image94.jpg image94.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image95.jpg image95.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image96.jpg image96.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image97.jpg image97.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image98.jpg image98.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/image99.jpg image99.jpg
+r0
+
+CCpResource build/Release-iphoneos/DesktopDefault.app/sound.caf sound.caf
+r0
+
+CGenerateDSYMFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app.dSYM" "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/DesktopDefault"
+r0
+
+CLd "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/DesktopDefault" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/Info.plist" SlideShow-Info.plist
+r0
+
+CProcessPCH /var/folders/Hn/HnkSL18jEWWahVbN+EpmxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DesktopDefault_Prefix-fcathfxskddlqvapqvytuwejkqky/DesktopDefault_Prefix.pch.gch DesktopDefault_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/ben/Library/MobileDevice/Provisioning Profiles/9030EBFD-E935-4777-9745-6597388AB1ED.mobileprovision" "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/DesktopDefault.build/Release-iphoneos/DesktopDefault.build/DesktopDefault.xcent"
+r0
+
+CTouch "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app"
+r0
+
+CValidate "/Users/ben/Dropbox/--- FRANKLIN ---/---DESKTOP ENGINE---/desktop_engine_v1.1stable/build/Release-iphoneos/DesktopDefault.app"
+r0
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Photo5</key>
+	<array>
+		<string>photo #5</string>
+		<string>This photo is a big f&apos;N deal</string>
+	</array>
+	<key>Photo4</key>
+	<array>
+		<string>photo #4</string>
+		<string>we aere the enema of your worst </string>
+	</array>
+	<key>Photo3</key>
+	<array>
+		<string>photo #3</string>
+		<string>this is a nice shot of !!</string>
+	</array>
+	<key>Photo2</key>
+	<array>
+		<string>photo #2</string>
+		<string>it may takw a bit of exrea effort to build the data</string>
+	</array>
+	<key>Photo1</key>
+	<array>
+		<string>photo #1</string>
+		<string>I&apos;d like to get this with XML files</string>
+	</array>
+</dict>
+</plist>
